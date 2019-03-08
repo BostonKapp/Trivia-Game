@@ -1,8 +1,8 @@
 // Variables
-var timer = 3000;
+var timer = 30;
 var score = 0;
 var timerRunning = false;
-var intervalid = "";
+var intervalid;
 
 
 
