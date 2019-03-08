@@ -1,0 +1,35 @@
+.questions {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    background-color: lime;
+    padding: 20px;
+    margin: 20px;
+}
+
+.answers {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+    background-color: lime;
+    padding: 20px;
+    margin: 20px;
+}
+
+.container {
+    float:right;
+    text-align: center;
+    background-color: lime;
+}
+
+#submit {
+    text-align: center;
+    color: green;
+    font-size:75px;
+}
+
+#timer {
+    text-align: center;
+    font-size: 75px;
+    color: blue;
+}
